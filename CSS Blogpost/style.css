@@ -2,6 +2,7 @@ body {
     background-color: rgba(2, 187, 255, 0.745);
     color: blue;
     font-size: 25px;
+    padding-bottom: 3200px;
 }
 .main-header{
     color: white;
@@ -68,4 +69,11 @@ body{
     margin-right: auto;
     width: 50%;
     border: 3px solid black;
+}
+.sub-headitem{
+    margin-top: -35px;
+}
+.lastbox{
+    margin-bottom: 500px;
+    
 }
